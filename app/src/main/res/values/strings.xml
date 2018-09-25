@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="name">Nome</string>
+    <string name="signup">Cadastrar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="password_confirmation">Confirmação de Senha</string>
+    <string name="cpf">CPF</string>
+</resources>
